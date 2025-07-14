@@ -157,5 +157,5 @@ Pull Request’leriniz değerlendirilip katkı olarak işlenir.
 
 ## ✨ Katkıda Bulundum
 
-Bu proje hakkında detaylı araştırmalar yaptım, dokümantasyonu analiz ettim ve tanıtım yazısı hazırladım. Caldera’nın Web3 geleceğinde oynayacağı rolü anlamak adına kod yapısı, modüler altyapısı ve geliştirici dostu yaklaşımı hakkında derinlemesine bilgi sahibi oldum.
+Bu proje hakkında detaylı araştırmalar yaptım, dokümantasyonu analiz ettim ve tanıtım yazısı hazırladım. Caldera’nın Web3 geleceğinde oynayacağı rolü anlamak adına kod yapısı, modüler altyapısı ve geliştirici dostu yaklaşımı hakkında derinlemesine bilgi sahibi oldum. Teşekkürler
 
